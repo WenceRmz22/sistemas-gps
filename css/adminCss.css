@@ -1,0 +1,56 @@
+#contenedor{
+	width: 80px;
+	height: 400px;
+	background-color: red;
+}
+#map_canvas{
+	width:60%; 
+	height:100%;
+	float: left;
+}
+#inData{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+#divInteres{
+	height: 350px;
+
+	overflow: scroll;
+}
+h2{
+	margin: 0px auto;
+}
+.Error{
+	color: red;
+}
+#mapBusqueda{
+	position: relative; 
+	overflow: hidden; 
+	transform: translateZ(0px); 
+	
+	
+}
+#mapBusqueda img{
+	 position:relative;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+#msg{
+	display: none;
+	width: 40%;
+	margin: 0px auto;
+}
+#contenido{
+	background-color: #FBF2EF;
+}
+#mapag{
+	width: 80%;
+	height: 400px;
+	
+}
+#mapag img{
+	margin-left: 30%;
+	margin-top: 90px;
+}
